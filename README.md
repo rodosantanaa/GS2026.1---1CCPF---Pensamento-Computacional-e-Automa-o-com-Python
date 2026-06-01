@@ -1,1 +1,8 @@
-# GS2026.1---1CCPF---Pensamento-Computacional-e-Automa-o-com-Python
+# GS2026.1 - 1CCPF - Pensamento Computacional e Automação com Python
+
+============================
+
+participantes do grupo:
+
+Rodrigo Fidelis Zarzar Santana
+RM: 572454
