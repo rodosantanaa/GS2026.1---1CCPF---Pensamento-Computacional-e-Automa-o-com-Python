@@ -6,3 +6,6 @@ participantes do grupo:
 
 Rodrigo Fidelis Zarzar Santana
 RM: 572454
+
+Angela Sousa Takezawa
+RM: 4736251
